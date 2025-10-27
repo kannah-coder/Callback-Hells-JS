@@ -18,3 +18,9 @@ Later, this can be improved using **Promises** or **async/await**.
 
 ## Run the project
 Just open `index.html` in your browser and check the console output.
+
+Folder/
+└── callback/
+    ├── callback.html
+    └── c1.html
+
